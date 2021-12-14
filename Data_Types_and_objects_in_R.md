@@ -24,11 +24,11 @@ Generally, while doing programming, we need to use variables to store various in
    
    Variables can be broadly divided in to two types such as Numerical and Character.
    
-   Character variables are called Factors and divided in to two types. Factor variable is considered nominal if it represents a name(e.g names of persons) and ordered factors are called ordinal variable (e.g satisfactory level of user from extremly poor to extremely good). Numeric variables are either Interval or Ratio.
+   Character variables are called Factors and divided in to two types. Factor variable is considered nominal if it represents a name(e.g names of persons) and ordered factors are called ordinal variable (e.g satisfactory level of user from extremely poor to extremely good). Numeric variables are either Interval or Ratio.
 Let us look at the data types in R.
 
 ### Double
-Doubles are used to represent continuous variables. Some examples are Time taken by all the athletes for completing a single lap in a race, height of boxers participatig in a tournament.
+Doubles are used to represent continuous variables. Some examples are Time taken by all the athletes for completing a single lap in a race, height of boxers participating in a tournament.
  To know a particular variable's data type we can use **`typeof()`**
 
 
